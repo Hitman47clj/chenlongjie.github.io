@@ -4,12 +4,13 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'PHYSICAL REVIEW D'
+paperurl: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.054021'
+citation: 'L.J. Chen, Hongxi Xing, and Shinsuke Yoshida Phys. Rev. D 108, 054021 – Published 14 September 2023.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.054021)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: L.J. Chen, Hongxi Xing, and Shinsuke Yoshida. (2023). "Twist-3 gluon contribution to Sivers asymmetry in 
+J/ψ production in semi-inclusive deep inelastic scattering." Phys. Rev. D 108.
